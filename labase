@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mayra Alejandra Lenis - Uñas Acrílicas</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ffdab9;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .promotion {
+            background-color: #ffcccb;
+            padding: 10px;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        footer {
+            background-color: #ffdab9;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mayra Alejandra Lenis - Uñas Acrílicas</h1>
+    </header>
+
+    <section>
+        <h2>Servicios</h2>
+        <p>Bienvenida a nuestro servicio de uñas acrílicas. Ofrecemos diseños únicos y de alta calidad para resaltar tu belleza.</p>
+    </section>
+
+    <section class="promotion">
+        <h2>Promoción de Febrero</h2>
+        <p>¡Aprovecha nuestra promoción especial! Uñas acrílicas por solo $80,000 este mes de febrero. ¡Reserva tu cita ahora!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mayra Alejandra Lenis - Uñas Acrílicas</p>
+    </footer>
+</body>
+</html>
